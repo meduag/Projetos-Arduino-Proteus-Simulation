@@ -1,9 +1,9 @@
 #include <UbidotsESPMQTT.h>
 
 // Defino mis puntos de conexion
-#define TOKEN "BBFF-THEyBBLGfTxR4xaGrar3EraxqDNO6A" // Tu token de Ubidots
+#define TOKEN "" // Tu token de Ubidots
 #define WIFINAME "Baeza sala" // Nombre de la red en que se va a conectar
-#define WIFIPASS "andrea76" // Password de la red
+#define WIFIPASS "xxxxx" // Password de la red
 #define DEVICE_LABEL  "my-new-device"  // Coloco el label de mi device que quiero apuntar
 
 // Coloco los label de las variables que voy a usar

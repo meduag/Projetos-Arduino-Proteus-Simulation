@@ -6,9 +6,9 @@
 /****************************************
  * Define Constants
  ****************************************/
-#define TOKEN "BBFF-THEyBBLGfTxR4xaGrar3EraxqDNO6A" // Your Ubidots TOKEN
+#define TOKEN "" // Your Ubidots TOKEN
 #define WIFINAME "Baeza sala" //Your SSID
-#define WIFIPASS "andrea76" // Your Wifi Pass
+#define WIFIPASS "" // Your Wifi Pass
 #define DEVICE_LABEL  "my-new-device"  // Put here your Ubidots device label
 #define VARIABLE_LABEL  "led1"  // Put here your Ubidots variable label 
 

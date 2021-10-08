@@ -9,7 +9,7 @@
 namespace {
   const char * WIFISSID = "Baeza sala"; // Assign your WiFi SSID
   const char * PASSWORD = "Baeza sala"; // Assign your WiFi password
-  const char * TOKEN = "BBFF-THEyBBLGfTxR4xaGrar3EraxqDNO6A"; // Assign your Ubidots TOKEN
+  const char * TOKEN = ""; // Assign your Ubidots TOKEN
 }
 
 Ubidots client(TOKEN);
